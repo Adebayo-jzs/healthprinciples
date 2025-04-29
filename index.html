@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -126,6 +126,10 @@
       padding-bottom: 10px;
       border-bottom: 1px solid #ddd;
     }
+    #prevBtn, #nextBtn{
+      display: none;
+    }
+    
   </style>
 </head>
 <body>
@@ -141,10 +145,16 @@
     <button id="restartBtn" onclick="askNumberOfQuestions()" style="display:none;">Restart Quiz</button>
     <button id="retakeBtn" onclick="askNumberOfQuestions()" style="display:none;">Retake Quiz</button>
     <button id="startBtn" onclick="askNumberOfQuestions()">Start Quiz</button>
-
+     
     <div id="quiz-container"></div>
+    <p id="questionCount" style="text-align: right;"></p>
+    <div id="navigation">
+      <button id="prevBtn" onclick="prevQuestion()" disabled>Previous</button>
+      <button id="nextBtn" onclick="nextQuestion()">Next</button>
+      <button id="submitBtn" onclick="confirmSubmit()" style="display: none;">Submit</button>
+    </div>
     <div id="question-navigation"></div>
-    <p id="questionCount" style="text-align: left;"></p>
+    
 
     <div id="navigation">
       <button id="prevBtn" onclick="prevQuestion()" disabled>Previous</button>
