@@ -1,0 +1,903 @@
+[
+    {
+      "question": "The WHO defines health as:",
+      "options": [
+        "Absence of disease",
+        "Complete physical, mental and social well-being",
+        "Ability to work productively",
+        "Proper organ function"
+      ],
+      "correct": "Complete physical, mental and social well-being"
+    },
+    {
+      "question": "Which is NOT a dimension of health?",
+      "options": ["Physical", "Financial", "Mental", "Social"],
+      "correct": "Financial"
+    },
+    {
+      "question": "Biblical dietary laws are found in:",
+      "options": ["Genesis 1:29", "Leviticus 11", "Proverbs 3:8", "Deuteronomy 23:13"],
+      "correct": "Leviticus 11"
+    },
+    {
+      "question": "The 'Web of Causation' model applies to:",
+      "options": ["Infectious diseases", "Chronic diseases", "Genetic disorders", "Injuries"],
+      "correct": "Chronic diseases"
+    },
+    {
+      "question": "Which is a health-enhancing behavior?",
+      "options": ["Smoking", "Regular exercise", "Excessive alcohol", "Sedentary lifestyle"],
+      "correct": "Regular exercise"
+    },
+    {
+      "question": "Methuselah's lifespan was:",
+      "options": ["120 years", "500 years", "750 years", "969 years"],
+      "correct": "969 years"
+    },
+    {
+      "question": "Which is NOT a determinant of health?",
+      "options": ["Genetics", "Environment", "Horoscope", "Lifestyle"],
+      "correct": "Horoscope"
+    },
+    {
+      "question": "The 'Epidemiological Triangle' includes:",
+      "options": [
+        "Agent-Host-Environment",
+        "Mind-Body-Spirit",
+        "Air-Water-Soil",
+        "Gene-Cell-Organ"
+      ],
+      "correct": "Agent-Host-Environment"
+    },
+    {
+      "question": "What distinguishes humans from animals?",
+      "options": ["Breath", "Movement", "Speech", "Hearing"],
+      "correct": "Speech"
+    },
+    {
+      "question": "Which vitamin prevents scurvy?",
+      "options": ["A", "B12", "C", "D"],
+      "correct": "C"
+    },
+    {
+      "question": "The first stage of substance abuse is:",
+      "options": ["Addiction", "Experimentation", "Dependence", "Withdrawal"],
+      "correct": "Experimentation"
+    },
+    {
+      "question": "Which is a spiritual dimension of health?",
+      "options": [
+        "Muscle strength",
+        "Sense of purpose",
+        "Social skills",
+        "Financial stability"
+      ],
+      "correct": "Sense of purpose"
+    },
+    {
+      "question": "What percentage of diseases are environment-related?",
+      "options": ["10%", "25%", "50%", "75%"],
+      "correct": "25%"
+    },
+    {
+      "question": "The Devers Model excludes:",
+      "options": ["Lifestyle", "Environment", "Astrology", "Human biology"],
+      "correct": "Astrology"
+    },
+    {
+      "question": "Which is NOT a clean animal per Leviticus?",
+      "options": ["Cow", "Pig", "Sheep", "Deer"],
+      "correct": "Pig"
+    },
+    {
+      "question": "Health as 'functionality' means:",
+      "options": [
+        "Performing tasks",
+        "Being disease-free",
+        "Having friends",
+        "Eating well"
+      ],
+      "correct": "Performing tasks"
+    },
+    {
+      "question": "Which is a health-depleting behavior?",
+      "options": [
+        "Handwashing",
+        "Vaccination",
+        "Tobacco use",
+        "Vegetable consumption"
+      ],
+      "correct": "Tobacco use"
+    },
+    {
+      "question": "The Germ Theory focuses on:",
+      "options": [
+        "Microorganisms causing disease",
+        "Social health determinants",
+        "Chronic illness patterns",
+        "Spiritual health"
+      ],
+      "correct": "Microorganisms causing disease"
+    },
+    {
+      "question": "Which is NOT a gift at creation?",
+      "options": ["Life", "Companionship", "Technology", "Environment"],
+      "correct": "Technology"
+    },
+    {
+      "question": "Proverbs 17:22 relates to:",
+      "options": [
+        "Dietary laws",
+        "Mental health",
+        "Physical exercise",
+        "Sanitation"
+      ],
+      "correct": "Mental health"
+    },
+    {
+      "question": "Tolerance in substance use means:",
+      "options": [
+        "Needing less drug for same effect",
+        "Needing more drug for same effect",
+        "Complete rejection of drugs",
+        "No change in drug response"
+      ],
+      "correct": "Needing more drug for same effect"
+    },
+    {
+      "question": "Which is a social determinant?",
+      "options": [
+        "Blood type",
+        "Education level",
+        "Eye color",
+        "Muscle mass"
+      ],
+      "correct": "Education level"
+    },
+    {
+      "question": "Multifactorial causation explains:",
+      "options": [
+        "Single-cause diseases",
+        "Multiple interacting causes",
+        "Only genetic diseases",
+        "Spiritual illnesses"
+      ],
+      "correct": "Multiple interacting causes"
+    },
+    {
+      "question": "Original human diet included:",
+      "options": [
+        "Only animal products",
+        "Processed foods",
+        "Seed-bearing plants",
+        "Dairy products"
+      ],
+      "correct": "Seed-bearing plants"
+    },
+    {
+      "question": "Which is NOT a criticism of WHO's definition?",
+      "options": [
+        "Too idealistic",
+        "Hard to measure",
+        "Too narrow",
+        "Includes all dimensions"
+      ],
+      "correct": "Includes all dimensions"
+    },
+    {
+      "question": "Physical dimension refers to:",
+      "options": [
+        "Body functioning",
+        "Social relationships",
+        "Financial status",
+        "Religious beliefs"
+      ],
+      "correct": "Body functioning"
+    },
+    {
+      "question": "Health as 'wholeness' emphasizes:",
+      "options": [
+        "Isolated organ function",
+        "Totality of being",
+        "Only mental state",
+        "Physical appearance"
+      ],
+      "correct": "Totality of being"
+    },
+    {
+      "question": "Deuteronomy 23:13 relates to:",
+      "options": [
+        "Dietary laws",
+        "Sanitation",
+        "Mental health",
+        "Exercise"
+      ],
+      "correct": "Sanitation"
+    },
+    {
+      "question": "Which is NOT a health service factor?",
+      "options": [
+        "Accessibility",
+        "Cost",
+        "Blood type",
+        "Quality"
+      ],
+      "correct": "Blood type"
+    },
+    {
+      "question": "Genesis 1:29 describes:",
+      "options": [
+        "Original human diet",
+        "Sanitation practices",
+        "Exercise regimen",
+        "Mental health"
+      ],
+      "correct": "Original human diet"
+    },
+        {
+          "question": "The basic structural unit of all living organisms is:",
+          "options": ["Tissue", "Cell", "Organ", "System"],
+          "correct": "Cell"
+        },
+        {
+          "question": "Which organelle is known as the 'powerhouse of the cell'?",
+          "options": ["Nucleus", "Ribosome", "Mitochondria", "Golgi apparatus"],
+          "correct": "Mitochondria"
+        },
+        {
+          "question": "How many chambers does the human heart have?",
+          "options": ["2", "3", "4", "5"],
+          "correct": "4"
+        },
+        {
+          "question": "Which part of the brain controls voluntary movements?",
+          "options": ["Cerebellum", "Brain stem", "Cerebrum", "Hypothalamus"],
+          "correct": "Cerebrum"
+        },
+        {
+          "question": "The functional unit of the kidney is called:",
+          "options": ["Neuron", "Alveoli", "Nephron", "Hepatocyte"],
+          "correct": "Nephron"
+        },
+        {
+          "question": "Which blood cells are responsible for oxygen transport?",
+          "options": ["Leukocytes", "Erythrocytes", "Platelets", "Lymphocytes"],
+          "correct": "Erythrocytes"
+        },
+        {
+          "question": "The largest organ in the human body is:",
+          "options": ["Liver", "Brain", "Skin", "Heart"],
+          "correct": "Skin"
+        },
+        {
+          "question": "Which system is responsible for hormone production?",
+          "options": ["Nervous", "Endocrine", "Digestive", "Respiratory"],
+          "correct": "Endocrine"
+        },
+        {
+          "question": "Bones are connected to other bones by:",
+          "options": ["Tendons", "Ligaments", "Cartilage", "Muscles"],
+          "correct": "Ligaments"
+        },
+        {
+          "question": "The process of breaking down food is called:",
+          "options": ["Respiration", "Digestion", "Circulation", "Excretion"],
+          "correct": "Digestion"
+        },
+        {
+          "question": "Which part of the eye controls light entry?",
+          "options": ["Retina", "Cornea", "Iris", "Optic nerve"],
+          "correct": "Iris"
+        },
+        {
+          "question": "The scientific name for the windpipe is:",
+          "options": ["Esophagus", "Trachea", "Bronchus", "Larynx"],
+          "correct": "Trachea"
+        },
+        {
+          "question": "Which vitamin is produced by the skin?",
+          "options": ["A", "B12", "C", "D"],
+          "correct": "D"
+        },
+        {
+          "question": "The smallest bone in the human body is located in the:",
+          "options": ["Hand", "Ear", "Foot", "Spine"],
+          "correct": "Ear"
+        },
+        {
+          "question": "Which organ produces bile?",
+          "options": ["Pancreas", "Gallbladder", "Liver", "Stomach"],
+          "correct": "Liver"
+        },
+        {
+          "question": "The nervous system is divided into central and:",
+          "options": ["Autonomic", "Peripheral", "Somatic", "Sympathetic"],
+          "correct": "Peripheral"
+        },
+        {
+          "question": "Gas exchange in the lungs occurs in the:",
+          "options": ["Bronchi", "Alveoli", "Trachea", "Diaphragm"],
+          "correct": "Alveoli"
+        },
+        {
+          "question": "Which muscle type is found in the heart?",
+          "options": ["Skeletal", "Smooth", "Cardiac", "Striated"],
+          "correct": "Cardiac"
+        },
+        {
+          "question": "The hormone insulin is produced by the:",
+          "options": ["Thyroid", "Pancreas", "Adrenal", "Pituitary"],
+          "correct": "Pancreas"
+        },
+        {
+          "question": "Which part of the brain maintains balance?",
+          "options": ["Cerebrum", "Cerebellum", "Medulla", "Thalamus"],
+          "correct": "Cerebellum"
+        },
+        {
+          "question": "The liquid part of blood is called:",
+          "options": ["Platelets", "Plasma", "Serum", "Lymph"],
+          "correct": "Plasma"
+        },
+        {
+          "question": "Which bone protects the brain?",
+          "options": ["Sternum", "Pelvis", "Skull", "Vertebrae"],
+          "correct": "Skull"
+        },
+        {
+          "question": "The voice box is called the:",
+          "options": ["Pharynx", "Larynx", "Trachea", "Epiglottis"],
+          "correct": "Larynx"
+        },
+        {
+          "question": "Which organ filters blood and removes old red blood cells?",
+          "options": ["Liver", "Kidney", "Spleen", "Pancreas"],
+          "correct": "Spleen"
+        },
+        {
+          "question": "The process of cell division is called:",
+          "options": ["Osmosis", "Mitosis", "Diffusion", "Respiration"],
+          "correct": "Mitosis"
+        },
+        {
+          "question": "Which part of the neuron receives signals?",
+          "options": ["Axon", "Dendrite", "Nucleus", "Myelin sheath"],
+          "correct": "Dendrite"
+        },
+        {
+          "question": "The body's 'chemical messengers' are:",
+          "options": ["Enzymes", "Hormones", "Antibodies", "Neurotransmitters"],
+          "correct": "Hormones"
+        },
+        {
+          "question": "Which structure connects muscles to bones?",
+          "options": ["Ligaments", "Tendons", "Cartilage", "Joints"],
+          "correct": "Tendons"
+        },
+        {
+          "question": "The largest artery in the body is the:",
+          "options": ["Pulmonary", "Coronary", "Aorta", "Jugular"],
+          "correct": "Aorta"
+        },
+        {
+          "question": "Which system removes waste from the blood?",
+          "options": ["Digestive", "Respiratory", "Urinary", "Endocrine"],
+          "correct": "Urinary"
+        },
+            {
+              "question": "Which nutrient is the body's main energy source?",
+              "options": ["Proteins", "Carbohydrates", "Fats", "Vitamins"],
+              "correct": "Carbohydrates"
+            },
+            {
+              "question": "Vitamin C deficiency causes:",
+              "options": ["Scurvy", "Rickets", "Beriberi", "Night blindness"],
+              "correct": "Scurvy"
+            },
+            {
+              "question": "Which mineral is essential for blood formation?",
+              "options": ["Calcium", "Iron", "Zinc", "Potassium"],
+              "correct": "Iron"
+            },
+            {
+              "question": "The original human diet in Genesis 1:29 was:",
+              "options": ["Carnivorous", "Vegetarian", "Vegan", "Pescatarian"],
+              "correct": "Vegan"
+            },
+            {
+              "question": "Which vitamin is fat-soluble?",
+              "options": ["B-complex", "C", "D", "All of the above"],
+              "correct": "D"
+            },
+            {
+              "question": "Protein is primarily used for:",
+              "options": ["Energy", "Tissue repair", "Fat storage", "Hydration"],
+              "correct": "Tissue repair"
+            },
+            {
+              "question": "Which food group is richest in calcium?",
+              "options": ["Grains", "Dairy", "Meat", "Fruits"],
+              "correct": "Dairy"
+            },
+            {
+              "question": "The condition caused by iodine deficiency is:",
+              "options": ["Anemia", "Goiter", "Osteoporosis", "Diabetes"],
+              "correct": "Goiter"
+            },
+            {
+              "question": "Which nutrient helps in blood clotting?",
+              "options": ["Vitamin A", "Vitamin K", "Vitamin E", "Vitamin B12"],
+              "correct": "Vitamin K"
+            },
+            {
+              "question": "Water makes up about what percentage of body weight?",
+              "options": ["20%", "40%", "60%", "80%"],
+              "correct": "60%"
+            },
+            {
+              "question": "Which is NOT a clean animal according to Leviticus 11?",
+              "options": ["Cow", "Pig", "Sheep", "Deer"],
+              "correct": "Pig"
+            },
+            {
+              "question": "Fiber is important for:",
+              "options": ["Muscle growth", "Digestion", "Bone strength", "Vision"],
+              "correct": "Digestion"
+            },
+            {
+              "question": "Which vitamin is synthesized by sunlight exposure?",
+              "options": ["A", "B12", "D", "K"],
+              "correct": "D"
+            },
+            {
+              "question": "The main function of carbohydrates is to:",
+              "options": ["Build muscle", "Provide energy", "Insulate organs", "Transport oxygen"],
+              "correct": "Provide energy"
+            },
+            {
+              "question": "Which mineral is crucial for bone health?",
+              "options": ["Iron", "Calcium", "Sodium", "Magnesium"],
+              "correct": "Calcium"
+            },
+            {
+              "question": "Processed sugars are examples of:",
+              "options": ["Complex carbs", "Simple carbs", "Proteins", "Fats"],
+              "correct": "Simple carbs"
+            },
+            {
+              "question": "Which nutrient provides the most concentrated energy?",
+              "options": ["Carbohydrates", "Proteins", "Fats", "Vitamins"],
+              "correct": "Fats"
+            },
+            {
+              "question": "Beriberi results from deficiency of:",
+              "options": ["Vitamin A", "Vitamin B1", "Vitamin C", "Vitamin D"],
+              "correct": "Vitamin B1"
+            },
+            {
+              "question": "The 'good' cholesterol is called:",
+              "options": ["LDL", "HDL", "VLDL", "Triglycerides"],
+              "correct": "HDL"
+            },
+            {
+              "question": "Which food is a complete protein source?",
+              "options": ["Rice", "Beans", "Egg", "Corn"],
+              "correct": "Egg"
+            },
+            {
+              "question": "Night blindness is associated with deficiency of:",
+              "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+              "correct": "Vitamin A"
+            },
+            {
+              "question": "Which mineral regulates fluid balance?",
+              "options": ["Iron", "Calcium", "Potassium", "Zinc"],
+              "correct": "Potassium"
+            },
+            {
+              "question": "The primary source of omega-3 fatty acids is:",
+              "options": ["Red meat", "Dairy", "Fish", "Poultry"],
+              "correct": "Fish"
+            },
+            {
+              "question": "Which vitamin aids in iron absorption?",
+              "options": ["A", "B12", "C", "D"],
+              "correct": "C"
+            },
+            {
+              "question": "The main dietary source of lycopene is:",
+              "options": ["Tomatoes", "Carrots", "Spinach", "Blueberries"],
+              "correct": "Tomatoes"
+            },
+            {
+              "question": "Which condition is related to excessive sugar consumption?",
+              "options": ["Diabetes", "Osteoporosis", "Goiter", "Anemia"],
+              "correct": "Diabetes"
+            },
+            {
+              "question": "The mineral needed for thyroid function is:",
+              "options": ["Iron", "Iodine", "Zinc", "Selenium"],
+              "correct": "Iodine"
+            },
+            {
+              "question": "Which vitamin is an antioxidant?",
+              "options": ["A", "B12", "C", "D"],
+              "correct": "C"
+            },
+            {
+              "question": "The recommended daily water intake is about:",
+              "options": ["2 liters", "4 liters", "6 liters", "8 liters"],
+              "correct": "2 liters"
+            },
+            {
+              "question": "Which nutrient is NOT a macronutrient?",
+              "options": ["Carbohydrate", "Protein", "Fat", "Vitamin"],
+              "correct": "Vitamin"
+            },
+                {
+                  "question": "Malaria is transmitted by:",
+                  "options": ["Mosquitoes", "Contaminated water", "Air", "Direct contact"],
+                  "correct": "Mosquitoes"
+                },
+                {
+                  "question": "Which is a waterborne disease?",
+                  "options": ["Tuberculosis", "Cholera", "HIV/AIDS", "Influenza"],
+                  "correct": "Cholera"
+                },
+                {
+                  "question": "The main cause of cholera is:",
+                  "options": ["Virus", "Bacteria", "Parasite", "Fungus"],
+                  "correct": "Bacteria"
+                },
+                {
+                  "question": "Which disease is caused by a virus?",
+                  "options": ["Malaria", "Tuberculosis", "HIV/AIDS", "Typhoid"],
+                  "correct": "HIV/AIDS"
+                },
+                {
+                  "question": "Vector control primarily targets:",
+                  "options": ["Bacteria", "Disease-carrying insects", "Viruses", "Fungi"],
+                  "correct": "Disease-carrying insects"
+                },
+                {
+                  "question": "Which is NOT an infectious disease?",
+                  "options": ["Diabetes", "Malaria", "Tuberculosis", "Hepatitis"],
+                  "correct": "Diabetes"
+                },
+                {
+                  "question": "Proper waste disposal helps prevent:",
+                  "options": ["Vector breeding", "Soil erosion", "Air pollution", "Noise pollution"],
+                  "correct": "Vector breeding"
+                },
+                {
+                  "question": "Which is a chronic disease?",
+                  "options": ["Cholera", "Heart disease", "Influenza", "Typhoid"],
+                  "correct": "Heart disease"
+                },
+                {
+                  "question": "The primary prevention method for malaria is:",
+                  "options": ["Vaccination", "Mosquito nets", "Antibiotics", "Handwashing"],
+                  "correct": "Mosquito nets"
+                },
+                {
+                  "question": "Which disease is airborne?",
+                  "options": ["Cholera", "Tuberculosis", "Hepatitis B", "Schistosomiasis"],
+                  "correct": "Tuberculosis"
+                },
+                {
+                  "question": "The main symptom of dengue fever is:",
+                  "options": ["Rash", "High fever", "Jaundice", "Diarrhea"],
+                  "correct": "High fever"
+                },
+                {
+                  "question": "Which is NOT a component of environmental health?",
+                  "options": ["Water quality", "Air pollution", "Genetic testing", "Waste management"],
+                  "correct": "Genetic testing"
+                },
+                {
+                  "question": "The main cause of lung cancer is:",
+                  "options": ["Air pollution", "Tobacco use", "Alcohol", "Stress"],
+                  "correct": "Tobacco use"
+                },
+                {
+                  "question": "Which disease is caused by poor sanitation?",
+                  "options": ["Diabetes", "Hypertension", "Dysentery", "Arthritis"],
+                  "correct": "Dysentery"
+                },
+                {
+                  "question": "The main vector for sleeping sickness is:",
+                  "options": ["Mosquito", "Tsetse fly", "Housefly", "Tick"],
+                  "correct": "Tsetse fly"
+                },
+                {
+                  "question": "Which disease is vaccine-preventable?",
+                  "options": ["Malaria", "HIV/AIDS", "Hepatitis B", "Diabetes"],
+                  "correct": "Hepatitis B"
+                },
+                {
+                  "question": "The primary symptom of typhoid is:",
+                  "options": ["Skin rash", "High fever", "Joint pain", "Blurred vision"],
+                  "correct": "High fever"
+                },
+                {
+                  "question": "Which is a zoonotic disease?",
+                  "options": ["Rabies", "Diabetes", "Hypertension", "Arthritis"],
+                  "correct": "Rabies"
+                },
+                {
+                  "question": "The main prevention method for waterborne diseases is:",
+                  "options": ["Vaccination", "Boiling water", "Insecticide", "Face masks"],
+                  "correct": "Boiling water"
+                },
+                {
+                  "question": "Which disease is caused by a parasite?",
+                  "options": ["Tuberculosis", "Malaria", "Hepatitis", "Influenza"],
+                  "correct": "Malaria"
+                },
+                {
+                  "question": "The main symptom of schistosomiasis is:",
+                  "options": ["Cough", "Blood in urine", "Skin rash", "Headache"],
+                  "correct": "Blood in urine"
+                },
+                {
+                  "question": "Which is NOT a method of waste disposal?",
+                  "options": ["Recycling", "Incineration", "Dumping", "Photosynthesis"],
+                  "correct": "Photosynthesis"
+                },
+                {
+                  "question": "The main cause of asthma is:",
+                  "options": ["Bacteria", "Air pollution", "Viruses", "Fungi"],
+                  "correct": "Air pollution"
+                },
+                {
+                  "question": "Which disease is sexually transmitted?",
+                  "options": ["Malaria", "Tuberculosis", "HIV/AIDS", "Typhoid"],
+                  "correct": "HIV/AIDS"
+                },
+                {
+                  "question": "The main prevention method for HIV is:",
+                  "options": ["Vaccination", "Safe sex", "Antibiotics", "Mosquito nets"],
+                  "correct": "Safe sex"
+                },
+                {
+                  "question": "Which disease is caused by contaminated food?",
+                  "options": ["Malaria", "Food poisoning", "HIV/AIDS", "Tuberculosis"],
+                  "correct": "Food poisoning"
+                },
+                {
+                  "question": "The main symptom of hepatitis is:",
+                  "options": ["Jaundice", "Rash", "Diarrhea", "Cough"],
+                  "correct": "Jaundice"
+                },
+                {
+                  "question": "Which is a bacterial infection?",
+                  "options": ["Influenza", "Tuberculosis", "HIV/AIDS", "Dengue"],
+                  "correct": "Tuberculosis"
+                },
+                {
+                  "question": "The main prevention for vector-borne diseases is:",
+                  "options": ["Vaccination", "Vector control", "Antibiotics", "Face masks"],
+                  "correct": "Vector control"
+                },
+                {
+                  "question": "Which disease is NOT communicable?",
+                  "options": ["Diabetes", "Tuberculosis", "Hepatitis", "Influenza"],
+                  "correct": "Diabetes"
+                },
+                    {
+                      "question": "The first stage of substance abuse is:",
+                      "options": ["Addiction", "Experimentation", "Dependence", "Withdrawal"],
+                      "correct": "Experimentation"
+                    },
+                    {
+                      "question": "Which substance is a depressant?",
+                      "options": ["Cocaine", "Alcohol", "Amphetamines", "Nicotine"],
+                      "correct": "Alcohol"
+                    },
+                    {
+                      "question": "Psychological dependence is characterized by:",
+                      "options": ["Physical pain", "Cravings", "Organ damage", "Genetic changes"],
+                      "correct": "Cravings"
+                    },
+                    {
+                      "question": "Which is NOT a stimulant?",
+                      "options": ["Cocaine", "Amphetamines", "Heroin", "Nicotine"],
+                      "correct": "Heroin"
+                    },
+                    {
+                      "question": "The main effect of alcohol is on the:",
+                      "options": ["Liver", "Brain", "Heart", "Lungs"],
+                      "correct": "Brain"
+                    },
+                    {
+                      "question": "Which drug is derived from the coca plant?",
+                      "options": ["Heroin", "Cocaine", "Marijuana", "LSD"],
+                      "correct": "Cocaine"
+                    },
+                    {
+                      "question": "Tolerance means needing:",
+                      "options": [
+                        "Less drug for same effect",
+                        "More drug for same effect",
+                        "No drug",
+                        "Different drug"
+                      ],
+                      "correct": "More drug for same effect"
+                    },
+                    {
+                      "question": "Which is a hallucinogen?",
+                      "options": ["Alcohol", "LSD", "Heroin", "Nicotine"],
+                      "correct": "LSD"
+                    },
+                    {
+                      "question": "The main risk of needle sharing is:",
+                      "options": ["HIV", "Diabetes", "Asthma", "Arthritis"],
+                      "correct": "HIV"
+                    },
+                    {
+                      "question": "Which is a sign of addiction?",
+                      "options": [
+                        "Occasional use",
+                        "Loss of control",
+                        "Improved health",
+                        "Better relationships"
+                      ],
+                      "correct": "Loss of control"
+                    },
+                    {
+                      "question": "The most addictive substance is:",
+                      "options": ["Alcohol", "Marijuana", "Nicotine", "Caffeine"],
+                      "correct": "Nicotine"
+                    },
+                    {
+                      "question": "Which is NOT a withdrawal symptom?",
+                      "options": ["Anxiety", "Sweating", "Euphoria", "Nausea"],
+                      "correct": "Euphoria"
+                    },
+                    {
+                      "question": "The primary treatment for addiction is:",
+                      "options": ["Punishment", "Rehabilitation", "Isolation", "Medication only"],
+                      "correct": "Rehabilitation"
+                    },
+                    {
+                      "question": "Which substance causes liver cirrhosis?",
+                      "options": ["Cocaine", "Alcohol", "Marijuana", "LSD"],
+                      "correct": "Alcohol"
+                    },
+                    {
+                      "question": "The main mental health risk of cannabis is:",
+                      "options": ["Depression", "Psychosis", "Anxiety", "All of the above"],
+                      "correct": "All of the above"
+                    },
+                    {
+                      "question": "Which is a healthy coping mechanism?",
+                      "options": ["Drug use", "Exercise", "Isolation", "Binge eating"],
+                      "correct": "Exercise"
+                    },
+                    {
+                      "question": "The main neurotransmitter affected by opioids is:",
+                      "options": ["Dopamine", "Serotonin", "Endorphins", "GABA"],
+                      "correct": "Endorphins"
+                    },
+                    {
+                      "question": "Which is NOT a risk factor for addiction?",
+                      "options": [
+                        "Genetic predisposition",
+                        "Peer pressure",
+                        "Strong family bonds",
+                        "Mental illness"
+                      ],
+                      "correct": "Strong family bonds"
+                    },
+                    {
+                      "question": "The primary effect of stimulants is:",
+                      "options": [
+                        "Sedation",
+                        "Increased alertness",
+                        "Pain relief",
+                        "Hallucinations"
+                      ],
+                      "correct": "Increased alertness"
+                    },
+                    {
+                      "question": "Which substance is most associated with lung cancer?",
+                      "options": ["Alcohol", "Marijuana", "Tobacco", "Heroin"],
+                      "correct": "Tobacco"
+                    },
+                    {
+                      "question": "The main biblical principle regarding substance use is:",
+                      "options": [
+                        "Moderation",
+                        "Total abstinence",
+                        "Only medical use",
+                        "No restrictions"
+                      ],
+                      "correct": "Moderation"
+                    },
+                    {
+                      "question": "Which is a symptom of depression?",
+                      "options": [
+                        "Excessive energy",
+                        "Persistent sadness",
+                        "Increased appetite",
+                        "Hyperactivity"
+                      ],
+                      "correct": "Persistent sadness"
+                    },
+                    {
+                      "question": "The main risk of binge drinking is:",
+                      "options": [
+                        "Liver damage",
+                        "Alcohol poisoning",
+                        "Both A and B",
+                        "Weight loss"
+                      ],
+                      "correct": "Both A and B"
+                    },
+                    {
+                      "question": "Which is a healthy stress management technique?",
+                      "options": ["Drug use", "Meditation", "Isolation", "Aggression"],
+                      "correct": "Meditation"
+                    },
+                    {
+                      "question": "The main effect of marijuana is:",
+                      "options": [
+                        "Stimulation",
+                        "Altered perception",
+                        "Pain relief",
+                        "All of the above"
+                      ],
+                      "correct": "Altered perception"
+                    },
+                    {
+                      "question": "Which is NOT a consequence of drug abuse?",
+                      "options": [
+                        "Improved health",
+                        "Financial problems",
+                        "Relationship issues",
+                        "Legal troubles"
+                      ],
+                      "correct": "Improved health"
+                    },
+                    {
+                      "question": "The primary prevention method for substance abuse is:",
+                      "options": [
+                        "Education",
+                        "Punishment",
+                        "Isolation",
+                        "Medication"
+                      ],
+                      "correct": "Education"
+                    },
+                    {
+                      "question": "Which scripture warns against intoxication?",
+                      "options": [
+                        "Genesis 1:29",
+                        "Proverbs 20:1",
+                        "Leviticus 11",
+                        "Deuteronomy 23:13"
+                      ],
+                      "correct": "Proverbs 20:1"
+                    },
+                    {
+                      "question": "The main mental health benefit of exercise is:",
+                      "options": [
+                        "Stress reduction",
+                        "Increased anxiety",
+                        "Social isolation",
+                        "Aggression"
+                      ],
+                      "correct": "Stress reduction"
+                    },
+                    {
+                      "question": "Which is a sign of good mental health?",
+                      "options": [
+                        "Social withdrawal",
+                        "Healthy relationships",
+                        "Substance use",
+                        "Mood swings"
+                      ],
+                      "correct": "Healthy relationships"
+                    }
+                  ]
+              
